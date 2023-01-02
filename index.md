@@ -34,7 +34,7 @@ Jedi Theme            |  Sith Theme
 ## Demo
 
 <video width="50%" preload="auto" muted controls>
-  <source src="/assets/images/demo.mp4" type="video/mp4" />
+  <source src="/StarWarsChallenge/assets/images/demo.mp4" type="video/mp4" />
 </video>
 
 
