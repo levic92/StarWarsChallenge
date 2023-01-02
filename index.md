@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Star Wars Challenge
+description: React Native app to better visualize Star Wars's planets
 ---
 
-# Summary
+## Summary
 
 Custom UI designed and mocked up using Sketch with the following screens:
 
